@@ -1,0 +1,7 @@
+.banner {
+  background-image: url(./img/rioj2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 180px;
+}
